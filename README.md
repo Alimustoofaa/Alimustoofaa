@@ -43,12 +43,12 @@ About me:
       <img src="https://devicons.github.io/devicon/devicon.git/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> </a> <a href="" target="_blank"> </a> 
  </p>
 
-<a href="">
+<a href="https://github.com/Alimustoofaa">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alimustoofaa&show_icons=true&theme=cobalt" alt="Alimustoofaa"/>
 </a>
-<a href="">
+<a href="https://github.com/Alimustoofaa">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alimustoofaa&langs_count=5&hide=html&layout=compact&theme=cobalt" alt="Alimustoofaa"/>
 </a>
-<a href="">
+<a href="https://github.com/Alimustoofaa">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Alimustoofaa&layout=compact&theme=cobalt" alt="Alimustoofaa"/>
 </a>
