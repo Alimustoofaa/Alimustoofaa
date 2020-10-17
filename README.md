@@ -7,9 +7,9 @@ About me:
 
 - 🌱 I’m currently learning **Tensorflow, Detectron2 and NestJs**
 
-- 👯 I’m looking to collaborate on **Python and Javascript(Node)**
+- 👯 I’m looking to collaborate on **Python, Javascript and Typescript**
 
-- 💬 Ask me about **Python,Javascripts(Node)**
+- 💬 Ask me about **Python, Javascript and Typescript**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
