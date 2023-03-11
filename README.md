@@ -19,3 +19,5 @@ About me:
 <a href="https://web.facebook.com/hai.alimustoofaa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hai.alimustoofaa" height="30" width="40" /></a>
 <a href="https://www.instagram.com/alimustoofaa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="alimustoofaa" height="30" width="40" /></a>
 </p>
+
+[![](https://visitcount.itsvg.in/api?id=alimustoofaa&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
