@@ -21,3 +21,5 @@ About me:
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=alimustoofaa&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M3DF8Q3)
